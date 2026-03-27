@@ -1,0 +1,10 @@
+name: lab3
+title:
+username: jadoon
+account: jadoon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14469593
+bundleId: 10081357
+url: https://jadoon.shinyapps.io/lab3/
+version: 1
